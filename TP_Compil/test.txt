@@ -1,0 +1,22 @@
+float Apppp;
+/*hello
+hello ghgjh */
+float A;
+float Az;
+int Gz;
+bool B;
+int Az; 
+const int Ab:=5;
+begin
+/* hello 
+bool = int  ou float
+int = bool ou float
+float = bool*/
+A= -3;
+Az :=1- 2+ A;
+A:=Gz;
+Gz:=A;
+A:=S;
+for(A:=1;A<5;A++){Az:=A+ Az;}
+/* hello 2 */
+end

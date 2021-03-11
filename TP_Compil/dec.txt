@@ -1,0 +1,14 @@
+int Ab;
+int B,C,Dr,E,F,I,J,G,H;
+begin
+/* Ab:=5; **
+world
+now */
+end 
+
+
+
+
+
+
+
